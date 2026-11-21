@@ -1,7 +1,7 @@
 [project]
 name = "spotirec"
 version = "0.1.0"
-description = "Add your description here"
+description = "Desktop music player with Shazam-style song recognition built on audio fingerprinting"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
